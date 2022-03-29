@@ -1,4 +1,4 @@
-# Cross-werd-nes-day
+# Cross-werd-nes-day Collab
 Small script for open the New Yorker Crossword and styling for easier use
 
 - Simply run the first line on the puzzle you wish
